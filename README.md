@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm a motivated undergrad with a keen interest in developing efficient and well structured apps
+
 <a href="https://github.com/Daggy1234">
   <img src="https://komarev.com/ghpvc/?username=ade3l&style=flat-square" />
 </a>
