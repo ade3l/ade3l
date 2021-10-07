@@ -6,8 +6,8 @@ I'm a motivated undergrad with a keen interest in developing efficient and well 
 <a href="">
   <img src="https://komarev.com/ghpvc/?username=ade3l&style=flat-square" />
 </a>
-
-<img src="https://github.com/ade3l/ade3l/blob/master/codeStats.svg" alt="Alternative Text"/>
+<!-- 
+<img src="https://github.com/ade3l/ade3l/blob/master/codeStats.svg" alt="Alternative Text"/> -->
 
 <!--
 **ade3l/ade3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
