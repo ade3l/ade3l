@@ -3,9 +3,11 @@ I'm a motivated undergrad with a keen interest in developing efficient and well 
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ade3l&langs_count=7&theme=cobalt&layout=compact"/>
 
-<a href="https://github.com/Daggy1234">
+<a href="">
   <img src="https://komarev.com/ghpvc/?username=ade3l&style=flat-square" />
 </a>
+
+<img src="https://github.com/ade3l/ade3l/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 <!--
 **ade3l/ade3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
