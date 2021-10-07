@@ -1,11 +1,12 @@
 ### Hi there 👋
 I'm a motivated undergrad with a keen interest in developing efficient and well structured apps
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ade3l&langs_count=7&theme=calm&layout=compact"/>
+
 <a href="https://github.com/Daggy1234">
   <img src="https://komarev.com/ghpvc/?username=ade3l&style=flat-square" />
 </a>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ade3l&langs_count=7&theme=calm&layout=compact"/>
 <!--
 **ade3l/ade3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
