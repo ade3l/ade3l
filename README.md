@@ -6,6 +6,11 @@ I'm a motivated undergrad with a keen interest in developing efficient and well 
 <a href="">
   <img src="https://komarev.com/ghpvc/?username=ade3l&style=flat-square" />
 </a>
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 <!-- 
 <img src="https://github.com/ade3l/ade3l/blob/master/codeStats.svg" alt="Alternative Text"/> -->
 
