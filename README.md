@@ -8,8 +8,13 @@ I'm a motivated undergrad with a keen interest in developing efficient and well 
 </a>
 
 <!--START_SECTION:waka-->
-
-
+```text
+Dart         3 hrs 54 mins   ███████████████████░░░░░░   76.50 % 
+Java         28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Markdown     28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+```
 <!--END_SECTION:waka-->
 <!-- 
 <img src="https://github.com/ade3l/ade3l/blob/master/codeStats.svg" alt="Alternative Text"/> -->
