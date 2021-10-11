@@ -7,7 +7,7 @@ I'm a motivated undergrad with a keen interest in developing efficient and well 
   <img src="https://komarev.com/ghpvc/?username=ade3l&style=flat-square" />
 </a>
 
-##Weekly coding breakdown
+## Weekly coding breakdown
 <!--START_SECTION:waka-->
 ```text
 Dart         3 hrs 54 mins   ███████████████████░░░░░░   76.50 % 
