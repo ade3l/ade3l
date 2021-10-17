@@ -10,11 +10,11 @@ I'm a motivated undergrad with a keen interest in developing efficient and well 
 ## Weekly coding breakdown
 <!--START_SECTION:waka-->
 ```text
-XML      11 hrs 14 mins  ███████████▓░░░░░░░░░░░░░   46.88 % 
-Java     9 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   37.68 % 
-Groovy   1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Dart     38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-SQL      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+XML      12 hrs 39 mins  ████████████▓░░░░░░░░░░░░   50.43 % 
+Java     9 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   37.08 % 
+Groovy   1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+SQL      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Other    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 <!-- 
