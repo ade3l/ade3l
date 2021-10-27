@@ -1,12 +1,17 @@
-## Hi there 👋
-I'm a motivated undergrad with a keen interest in developing efficient and well structured apps
+## Ahoy there!
+I'm an undergrad with a keen interest in developing efficient and well structured apps
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ade3l&langs_count=7&theme=cobalt&layout=compact"/>
-
+🚲 I Love making a native android apps in my free time using Java
+🌄 Currently shifting to Kotlin as my primary language for android dev
+🔮  I love to go searching for new UI libraries and design ideas
 <a href="">
   <img src="https://komarev.com/ghpvc/?username=ade3l&style=flat-square" />
 </a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ade3l&langs_count=7&theme=cobalt&layout=compact"/>
 
+
+
+<!-- 
 ## Weekly coding breakdown
 <!--START_SECTION:waka-->
 ```text
@@ -19,7 +24,7 @@ Other    19 mins         ▒░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <!-- 
 <img src="https://github.com/ade3l/ade3l/blob/master/codeStats.svg" alt="Alternative Text"/> -->
-
+ -->
 <!--
 **ade3l/ade3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
