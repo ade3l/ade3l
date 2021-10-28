@@ -14,6 +14,13 @@ I'm an undergrad with a keen interest in developing efficient and well structure
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ade3l&langs_count=7&theme=cobalt&layout=compact"/>
 
 <!--START_SECTION:waka-->
+```text
+Kotlin       2 hrs 16 mins   ████████████▒░░░░░░░░░░░░   49.02 % 
+XML          1 hr 35 mins    ████████▓░░░░░░░░░░░░░░░░   34.18 % 
+Groovy       30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+```
 <!--END_SECTION:waka-->
 
 
