@@ -13,6 +13,7 @@ I'm an undergrad with a keen interest in developing efficient and well structure
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ade3l&langs_count=7&theme=cobalt&layout=compact"/>
 
+## Weekly coding breakdown
 <!--START_SECTION:waka-->
 ```text
 Kotlin       2 hrs 16 mins   ████████████▒░░░░░░░░░░░░   49.02 % 
