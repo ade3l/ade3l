@@ -16,11 +16,11 @@ I'm an undergrad with a keen interest in developing efficient and well structure
 ## Weekly coding breakdown
 <!--START_SECTION:waka-->
 ```text
-Kotlin     8 hrs 44 mins   ████████████████░░░░░░░░░   64.09 % 
-XML        3 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.05 % 
-Groovy     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Markdown   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Java       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Kotlin     7 hrs 44 mins   █████████████▓░░░░░░░░░░░   54.19 % 
+XML        3 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
+Java       1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Markdown   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Groovy     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 <!--END_SECTION:waka-->
 
