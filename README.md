@@ -1,12 +1,10 @@
 <h1 align="center"> Welcome to my little corner of the internet </h1>
 
-I'm an undergrad with a keen interest in developing efficient and well structured apps
+I'm an undergrad with a keen interest in developing efficient and well structured apps.
 
-🚲 I Love making native android apps in my free time using Java
-
-🌄 Currently shifting to Kotlin as my primary language for android dev
-
-🔮  I love to go searching for new UI libraries and design ideas
+If you take a look around you'll see that I Love making native android apps in my free time using Java.
+A keen eye will spot that I am currently shifting to Kotlin as my primary language for android dev.
+Take a look around, and if you'd like to get in touch with me you can find me on :
 
 <a href="">
   <img src="https://komarev.com/ghpvc/?username=ade3l&style=flat-square" />
