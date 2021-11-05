@@ -1,4 +1,4 @@
-## Ahoy there!
+## Welcome to my little corner of the internet
 I'm an undergrad with a keen interest in developing efficient and well structured apps
 
 🚲 I Love making native android apps in my free time using Java
