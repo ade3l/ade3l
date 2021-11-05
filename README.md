@@ -1,12 +1,11 @@
-<h1 align="center"> Welcome to my little corner of the internet </h1>
+## Welcome to my little corner of the internet
+I'm an undergrad with a keen interest in developing efficient and well structured apps
 
-I'm an undergrad with a keen interest in developing efficient and well structured apps.
+🚲 I Love making native android apps in my free time using Java
 
-If you take a look around you'll see that I Love making native android apps in my free time using Java.
+🌄 Currently shifting to Kotlin as my primary language for android dev
 
-A keen eye will spot that I am currently shifting to Kotlin as my primary language for android dev.
-
-Take a look around, and if you'd like to get in touch with me you can find me on :
+🔮  I love to go searching for new UI libraries and design ideas
 
 <a href="">
   <img src="https://komarev.com/ghpvc/?username=ade3l&style=flat-square" />
@@ -14,7 +13,7 @@ Take a look around, and if you'd like to get in touch with me you can find me on
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ade3l&langs_count=7&theme=cobalt&layout=compact"/>
 
-## Weekly coding breakdown
+## What I've been coding with for the last 7 days
 <!--START_SECTION:waka-->
 ```text
 Kotlin       7 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.47 % 
@@ -24,19 +23,3 @@ Groovy       21 mins         ▒░░░░░░░░░░░░░░░░
 Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 <!--END_SECTION:waka-->
-
-
-<!--
-**ade3l/ade3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... Anything 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
