@@ -25,6 +25,7 @@ Git Config   9 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
+<img height="180em" src="https://github-readme-stats-ade3l.vercel.app/api/wakatime?username=ade3l&layout=compact&langs_count=8&theme=tokyonight"/>
 
 
 <!--
