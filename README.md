@@ -3,7 +3,9 @@
 I'm an undergrad with a keen interest in developing efficient and well structured apps.
 
 If you take a look around you'll see that I Love making native android apps in my free time using Java.
+
 A keen eye will spot that I am currently shifting to Kotlin as my primary language for android dev.
+
 Take a look around, and if you'd like to get in touch with me you can find me on :
 
 <a href="">
