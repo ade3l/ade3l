@@ -16,9 +16,8 @@ I'm an undergrad with a keen interest in developing efficient and well structure
 ## What I've been coding with for the last 7 days
 <!--START_SECTION:waka-->
 ```text
-Java     4 hrs 50 mins   ████████████▓░░░░░░░░░░░░   50.99 % 
-Kotlin   3 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.29 % 
-XML      1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Groovy   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Java     4 hrs 51 mins   ███████████████▒░░░░░░░░░   61.39 % 
+Kotlin   1 hr 39 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.03 % 
+XML      1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.58 % 
 ```
 <!--END_SECTION:waka-->
