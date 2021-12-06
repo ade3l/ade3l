@@ -16,10 +16,10 @@ I'm an undergrad with a keen interest in developing efficient and well structure
 ## What I've been coding with for the last 7 days
 <!--START_SECTION:waka-->
 ```text
-SQL              2 hrs 9 mins    ██████████████░░░░░░░░░░░   55.53 % 
-Java             1 hr            ██████▓░░░░░░░░░░░░░░░░░░   26.19 % 
-XML              30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-GitIgnore file   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Groovy           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+SQL              2 hrs 9 mins    █████████████████▒░░░░░░░   69.49 % 
+XML              27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Java             20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+GitIgnore file   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Groovy           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
