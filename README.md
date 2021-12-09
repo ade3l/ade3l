@@ -13,13 +13,3 @@ I'm an undergrad with a keen interest in developing efficient and well structure
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ade3l&langs_count=7&theme=cobalt&layout=compact"/>
 
-## What I've been coding with for the last 7 days
-<!--START_SECTION:waka-->
-```text
-XML              38 mins         █████████░░░░░░░░░░░░░░░░   36.26 % 
-Java             31 mins         ███████▒░░░░░░░░░░░░░░░░░   29.57 % 
-SQL              27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.48 % 
-GitIgnore file   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Groovy           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-```
-<!--END_SECTION:waka-->
