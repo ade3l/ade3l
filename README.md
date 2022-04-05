@@ -3,7 +3,7 @@ I'm an undergrad with a keen interest in developing efficient and well structure
 
 🚲 I Love making native android apps in my free time using Java
 
-🌄 Currently shifting to Kotlin as my primary language for android dev
+🌄 Currently learning javaFX
 
 🔮  I love to go searching for new UI libraries and design ideas
 
