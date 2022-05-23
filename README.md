@@ -3,7 +3,7 @@ I'm an undergrad with a keen interest in developing efficient and well structure
 
 🚲 I Love making native android apps in my free time using Java
 
-🌄 Currently learning javaFX
+🌄 Currently learning Java and webdev
 
 🔮  I love to go searching for new UI libraries and design ideas
 
